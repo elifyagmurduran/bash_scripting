@@ -7,4 +7,4 @@ echo "enter your name:"
 read name
 
 # Greet the user
-echo "Hello, $name! Welcome to the world of Bash scripting."
+echo "hello, $name! welcome to the world of bash scripting."
