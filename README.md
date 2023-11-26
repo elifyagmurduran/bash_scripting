@@ -16,11 +16,12 @@ cd bash-scripting-exercises
 ## exercises overview 📚
 
 the exercises are organized into directories, each focusing on a specific aspect of bash scripting.
-### exercise 1: hello world
 
-enter your name to get greeted by the bash.
+### exercise 1️⃣: hello world
 
-### exercise 2: arrays and iteration in bash: develop a bash script that uses arrays and iterates over them.
+- write a script that gets your name as an input to get greeted by the bash.
+
+### exercise 2️⃣: arrays and iteration in bash: develop a bash script that uses arrays and iterates over them.
 
 - declare an array with at least 5 elements.
 
@@ -30,7 +31,7 @@ enter your name to get greeted by the bash.
 
 - iterate over the array and print each element.
 
-### exercise 3: reading the environment in bash: develop a bash script that reads and manipulates environment variables.
+### exercise 3️⃣: reading the environment in bash: develop a bash script that reads and manipulates environment variables.
 
 - print the value of the HOME environment variable.
 
@@ -38,7 +39,7 @@ enter your name to get greeted by the bash.
 
 - add a custom directory to the PATH variable.
 
-### exercise 4: reading exit codes in bash: develop a bash script that reads and interprets exit codes.
+### exercise 4️⃣: reading exit codes in bash: develop a bash script that reads and interprets exit codes.
 
 - run a command that will succeed (e.g., ls).
 
@@ -46,7 +47,7 @@ enter your name to get greeted by the bash.
 
 - read and print the exit codes of both commands.
 
-### exercise 5: using functions and if statements in bash: develop a bash script that uses functions and if statements.
+### exercise 5️⃣: using functions and if statements in bash: develop a bash script that uses functions and if statements.
 
 - create a function that takes a number as an argument.
 
@@ -54,13 +55,13 @@ enter your name to get greeted by the bash.
 
 - call the function with different numbers.
 
-### exercise 6: using pipes in bash: develop a bash script that utilizes pipes to combine commands.
+### exercise 6️⃣: using pipes in bash: develop a bash script that utilizes pipes to combine commands.
 
 - use ls to list files and pipe it to sort.
 
 - use echo to print text and pipe it to wc to count words.
 
-### exercise 7: using traps in bash
+### exercise 7️⃣: using traps in bash
 
 - use trap to catch the SIGINT signal (ctrl+c).
 
