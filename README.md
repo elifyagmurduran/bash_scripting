@@ -15,8 +15,7 @@ cd bash-scripting-exercises
 
 ## exercises overview 📚
 
-the exercises are organized into directories, each focusing on a specific aspect of bash scripting. inside each directory, you'll find a readme file with instructions for the exercises.
-
+the exercises are organized into directories, each focusing on a specific aspect of bash scripting.
 ### exercise 1: hello world
 
 enter your name to get greeted by the bash.
