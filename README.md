@@ -21,7 +21,9 @@ the exercises are organized into directories, each focusing on a specific aspect
 
 - write a script that gets your name as an input to get greeted by the bash.
 
-### exercise 2️⃣: arrays and iteration in bash: develop a bash script that uses arrays and iterates over them.
+### exercise 2️⃣: arrays and iteration in bash
+
+develop a bash script that uses arrays and iterates over them.
 
 - declare an array with at least 5 elements.
 
@@ -31,7 +33,9 @@ the exercises are organized into directories, each focusing on a specific aspect
 
 - iterate over the array and print each element.
 
-### exercise 3️⃣: reading the environment in bash: develop a bash script that reads and manipulates environment variables.
+### exercise 3️⃣: reading the environment in bash
+
+develop a bash script that reads and manipulates environment variables.
 
 - print the value of the HOME environment variable.
 
@@ -39,7 +43,9 @@ the exercises are organized into directories, each focusing on a specific aspect
 
 - add a custom directory to the PATH variable.
 
-### exercise 4️⃣: reading exit codes in bash: develop a bash script that reads and interprets exit codes.
+### exercise 4️⃣: reading exit codes in bash
+
+develop a bash script that reads and interprets exit codes.
 
 - run a command that will succeed (e.g., ls).
 
@@ -47,7 +53,9 @@ the exercises are organized into directories, each focusing on a specific aspect
 
 - read and print the exit codes of both commands.
 
-### exercise 5️⃣: using functions and if statements in bash: develop a bash script that uses functions and if statements.
+### exercise 5️⃣: using functions and if statements in bash
+
+develop a bash script that uses functions and if statements.
 
 - create a function that takes a number as an argument.
 
@@ -55,7 +63,9 @@ the exercises are organized into directories, each focusing on a specific aspect
 
 - call the function with different numbers.
 
-### exercise 6️⃣: using pipes in bash: develop a bash script that utilizes pipes to combine commands.
+### exercise 6️⃣: using pipes in bash
+
+develop a bash script that utilizes pipes to combine commands.
 
 - use ls to list files and pipe it to sort.
 
