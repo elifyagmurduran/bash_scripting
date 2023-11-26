@@ -11,7 +11,7 @@ echo "PATH Environment Variable: $PATH"
 echo -e "\n"
 
 # add a custom directory to the PATH variable
-custom_directory="/path/to/custom/directory"
+custom_directory="C:\Users\elify\Documents\AndroidStudioProjects"
 export PATH="$PATH:$custom_directory"
 
 # print the updated PATH environment variable
