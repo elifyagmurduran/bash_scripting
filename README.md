@@ -1,6 +1,6 @@
 # bash scripting exercises 🚀
 
-this repository contains a collection of bash scripting exercises i did, to help practice and improve my bash scripting skills.
+this repository contains a collection of bash scripting and docker exercises i did, to help practice and improve my bash scripting skills.
 you can also feel free to use this repository for self-learning.
 
 ## getting started 🏁
@@ -9,19 +9,19 @@ to get started, clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/elifyagmurduran/bash-scripting-exercises.git
-
-cd bash-scripting-exercises
 ```
 
 ## exercises overview 📚
 
 the exercises are organized into directories, each focusing on a specific aspect of bash scripting.
 
-### exercise 1️⃣: hello world
+### bash
+
+#### bash scripting exercise 1️⃣: hello world
 
 - write a script that gets your name as an input to get greeted by the bash.
 
-### exercise 2️⃣: arrays and iteration in bash
+#### bash scripting exercise 2️⃣: arrays and iteration in bash
 
 develop a bash script that uses arrays and iterates over them.
 
@@ -33,7 +33,7 @@ develop a bash script that uses arrays and iterates over them.
 
 - iterate over the array and print each element.
 
-### exercise 3️⃣: reading the environment in bash
+#### bash scripting exercise 3️⃣: reading the environment in bash
 
 develop a bash script that reads and manipulates environment variables.
 
@@ -43,7 +43,7 @@ develop a bash script that reads and manipulates environment variables.
 
 - add a custom directory to the PATH variable.
 
-### exercise 4️⃣: reading exit codes in bash
+#### bash scripting exercise 4️⃣: reading exit codes in bash
 
 develop a bash script that reads and interprets exit codes.
 
@@ -53,7 +53,7 @@ develop a bash script that reads and interprets exit codes.
 
 - read and print the exit codes of both commands.
 
-### exercise 5️⃣: using functions and if statements in bash
+#### bash scripting exercise 5️⃣: using functions and if statements in bash
 
 develop a bash script that uses functions and if statements.
 
@@ -63,7 +63,7 @@ develop a bash script that uses functions and if statements.
 
 - call the function with different numbers.
 
-### exercise 6️⃣: using pipes in bash
+#### bash scripting exercise 6️⃣: using pipes in bash
 
 develop a bash script that utilizes pipes to combine commands.
 
@@ -71,11 +71,19 @@ develop a bash script that utilizes pipes to combine commands.
 
 - use echo to print text and pipe it to wc to count words.
 
-### exercise 7️⃣: using traps in bash
+#### bash scripting exercise 7️⃣: using traps in bash
 
 - use trap to catch the SIGINT signal (ctrl+c).
 
 - use trap to catch the EXIT signal.
+
+### docker
+
+#### docker exercise 1️⃣: hello world
+
+- write a docker file that automates a hello world python script.
+
+#### more coming soon...
 
 ## license 📝
 
